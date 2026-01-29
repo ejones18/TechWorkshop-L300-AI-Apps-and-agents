@@ -53,7 +53,7 @@ out/
 .azure-pipelines.yml
 *.azuredevops
 
-# Github
-.github/
+# Github - keep .github/workflows for CI/CD
+# .github/
 parameters.json
 .azure
