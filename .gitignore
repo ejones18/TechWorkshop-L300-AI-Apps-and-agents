@@ -57,3 +57,4 @@ out/
 # .github/
 parameters.json
 .azure
+src/env_settings.txt

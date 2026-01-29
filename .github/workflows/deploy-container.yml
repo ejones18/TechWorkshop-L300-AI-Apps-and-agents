@@ -1,9 +1,10 @@
 name: Build and Deploy to Azure Container Registry
 
+# DISABLED - only manual trigger
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   workflow_dispatch:
 
 env:
